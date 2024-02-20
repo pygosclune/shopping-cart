@@ -1,0 +1,16 @@
+img {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.productCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #5386E4;
+    padding: 2rem 0.5rem;
+    gap: 1rem;
+    border-radius: 10px;
+}
